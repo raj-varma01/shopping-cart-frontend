@@ -7,7 +7,6 @@ import EmptyState from "../components/EmptyState";
 import ProductCard from "../components/ProductCard";
 import Navbar from "../components/Navbar";
 import CartSidebar from "../components/CartSidebar";
-import { unwrapResult } from "@reduxjs/toolkit";
 import { useAppDispatch } from "../hooks/reduxHooks";
 
 import {
